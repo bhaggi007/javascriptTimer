@@ -1,0 +1,12 @@
+Goal: Overall goal of the project is to create a javacript timer.
+
+User Story1: Create a default timer for say 5 seconds. When one minute is over a message is displayed in console that the timer is up.
+    Solution: Created a html file and linked it to javascript file. Added a settimeout function, with hardcoded value as 5000 which is 5 seconds.
+
+User Story2: Instead of displaying a message on console. A message is displayed on the ui that the time is up.
+    Solution: completes this one as well. created a paragraph without any style and with a class time up. Value in this is populated when the time is up.
+
+User Story3: Instead of displaying a message on the console a song is played from device, the default location can be hardcoded in the code.
+
+
+User Story4: Instead of a hardcoded location user can select the directory from which the song is played.
